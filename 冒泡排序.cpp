@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+//冒泡排序
+//曹舒晖
+#include <stdio.h>
 int main()
 {
 	int i, j, t, a[11];    //定义变量及数组为基本整型
